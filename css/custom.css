@@ -74,7 +74,7 @@
 .news .btn{background:none;color:black;text-align: center;}
 .news .card{text-align:left;margin-bottom: 50px;}
 .news .news-main .card{border:none}
-.news .news-main{border:solid 2px red;padding:50px 30px;margin:0 70px;margin-bottom: 50px;}
+.news .news-main{border:solid 2px black;padding:50px 30px;margin:0 70px;margin-bottom: 50px;}
 footer .down{border-top:solid 2px grey ;}
 footer {background-color: #00152E; padding: 40px 0px 20px 0px;}
 footer p{color:white}
